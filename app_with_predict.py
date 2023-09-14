@@ -56,7 +56,7 @@ from streamlit_option_menu import option_menu
 #############################################
 
 st.set_page_config(
-    page_title='DataStrophic2',
+    page_title='DataStrophic',
     layout="wide",
     page_icon="💰")
 
