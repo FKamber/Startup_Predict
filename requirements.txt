@@ -8,9 +8,8 @@ streamlit_pandas_profiling
 streamlit_option_menu
 streamlit_extras
 transformers
-pickle
-warnings
 numpy
+pickle
 TensorFlow
 pipeline
 
