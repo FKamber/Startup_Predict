@@ -11,5 +11,3 @@ transformers
 numpy
 pickle
 TensorFlow
-pipeline
-
