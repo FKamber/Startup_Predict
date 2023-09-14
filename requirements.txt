@@ -11,4 +11,5 @@ transformers
 pickle
 warnings
 numpy
+TensorFlow
 
