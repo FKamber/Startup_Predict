@@ -234,7 +234,7 @@ if selected == "Predict":
 
 
 
-    question = st.text_input('Enter your idea :')
+    question = st.text_input('Enter your idea :','...')
 
     # #question = " I want to work with ai and customer service which tool can help me ? "
 
